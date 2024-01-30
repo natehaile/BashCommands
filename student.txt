@@ -1,0 +1,8 @@
+Bash Commands Project - Natnael Ghilazghi
+total 46
+drwxr-xr-x 1 natha 197609   0 Jan 30 20:22 ./
+drwxr-xr-x 1 natha 197609   0 Jan 29 20:09 ../
+drwxr-xr-x 1 natha 197609   0 Jan 30 20:06 .MySecrets/
+-rw-r--r-- 1 natha 197609 320 Jan 30 20:22 commands.txt
+-rw-r--r-- 1 natha 197609  42 Jan 30 20:04 student.txt
+drwxr-xr-x 1 natha 197609   0 Jan 30 20:19 TestFiles/

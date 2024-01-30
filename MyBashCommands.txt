@@ -1,0 +1,14 @@
+cd "My Documents"
+mkdir BashCommands
+cd BashCommands
+touch commands.txt
+touch student.txt
+echo "Bash Commands Project - Natnael Ghilazghi"
+mkdir .MySecrets
+mkdir TestFiles
+touch TestFiles/test{1..5}.txt
+mkdir -p Backup/TestFiles
+mv TestFiles/* Backup/TestFiles/
+cp Backup/TestFiles/* TestFiles/
+rm -r Backup/
+ls -la >> student.txt
